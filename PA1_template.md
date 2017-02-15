@@ -45,7 +45,7 @@ mean_total_steps<-mean(total_steps_by_day$steps,na.rm=TRUE)
 median_total_steps<-median(total_steps_by_day$steps,na.rm=TRUE)
 ```
 
-Mean of the total number of steps taken per day is `r mean_total_steps`, and the median is `r median_total_steps`.
+Mean of the total number of steps taken per day is 10766.19, and the median is 10765.
 
 #What is the average daily activity pattern?
 
